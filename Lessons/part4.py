@@ -2,6 +2,7 @@
 # string data type
 # literal assignment
 import math
+
 first = "Kali"
 last = "Faiz"
 
@@ -84,6 +85,7 @@ print("Cheesecake".ljust(16, ".") + "£4".rjust(4))
 print(first[1])
 print(first[-1])
 print(first[1:])
+
 
 # some methods return boolean data
 print(first.startswith("K"))
